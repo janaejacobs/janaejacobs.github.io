@@ -66,6 +66,20 @@ table td{
 	border: 1px solid #e3e3e3;
 	padding: 4px 8px;
 }
+.img-info ul{
+	padding: 0px 30px 20px;
+	font-family: arial;
+	font-size: 16px;
+	line-height: 24px
+	color: #111;
+}
+.img-info ol{
+	padding: 0px 30px 20px;
+	font-family: arial;
+	font-size: 16px;
+	line-height: 24px
+	color: #111;
+}
 @media only screen and(min-width: 768px){
    .img-banner{
    	display: block;
